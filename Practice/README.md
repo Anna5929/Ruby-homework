@@ -1,5 +1,7 @@
-# Practice
+# Практика 
 
-This folder contains practical and training tasks for learning Ruby.
+Ця папка містить практичні та навчальні завдання для вивчення мови програмування Ruby.
 
-It includes small exercises and examples for practising Ruby syntax and programming basics.
+Тут зберігаються невеликі програми, приклади коду та вправи для закріплення знань із синтаксису Ruby, роботи з масивами, циклами, умовними конструкціями та методами.
+
+Також у папці можуть зберігатися початкові версії програм, які надалі вдосконалюються та розширюються в лабораторних роботах.
