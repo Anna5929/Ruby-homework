@@ -24,6 +24,7 @@
 | 3 | Двовимірні масиви та розробка консольної гри | ✅ Виконано | [lab03](./lab03) |
 | 4 | Розробка гри «Морський бій» | ✅ Виконано | [lab04](./lab04) |
 | --- | Реалізація патерна «Легковаговик» (Flyweight) на прикладі системи кінотеатру | ✅ Виконано | [FlyweightCinema](./FlyweightCinema) |
+| --- | КР: Практична задача | ✅ Виконано | [Practical_Test](./Practical_Test) |
 
 **Позначення статусів:**
 
@@ -68,6 +69,15 @@ Ruby-homework/
 │   ├── cinema.rb
 │   ├── main.rb
 │   └── memory_comparison.rb
+├── Practical_Test/
+│   ├── README.md
+│   └── Inventory/
+│       ├── data/
+│       │   └── products.json
+│       ├── lib/
+│       │   └── inventory.rb
+│       └── bin/
+│           └── report.rb
 └── Practice/
 ```
 
@@ -97,4 +107,4 @@ ruby назва_файлу.rb
 
 ---
 
-**Останнє оновлення:** 03.11.2026
+**Останнє оновлення:** 17.11.2026
