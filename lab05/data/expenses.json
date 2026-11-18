@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-18",
+    "amount_in_kopecks": 12550,
+    "category": "food",
+    "description": "Продукти в супермаркеті"
+  },
+  {
+    "id": 3,
+    "date": "2026-11-17",
+    "amount_in_kopecks": 8500,
+    "category": "transport",
+    "description": "Квиток на транспорт"
+  },
+  {
+    "id": 5,
+    "date": "2026-11-16",
+    "amount_in_kopecks": 7500,
+    "category": "entertainment",
+    "description": "Квиток у кіно"
+  },
+  {
+    "id": 6,
+    "date": "2026-11-18",
+    "amount_in_kopecks": 25000,
+    "category": "study",
+    "description": "Книга з Ruby"
+  },
+  {
+    "id": 7,
+    "date": "2026-11-15",
+    "amount_in_kopecks": 45000,
+    "category": "study",
+    "description": "Навчальні матеріали"
+  },
+  {
+    "id": 8,
+    "date": "2026-11-16",
+    "amount_in_kopecks": 7500,
+    "category": "entertainment",
+    "description": "Квиток у кіно"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-18",
+    "amount_in_kopecks": 15000,
+    "category": "food",
+    "description": "Кава та десерт"
+  }
+]

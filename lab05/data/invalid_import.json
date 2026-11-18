@@ -1,0 +1,16 @@
+[
+  {
+    "id": 20,
+    "date": "2026-11-10",
+    "amount_in_kopecks": 10000,
+    "category": "food",
+    "description": "Кава"
+  },
+  {
+    "id": 21,
+    "date": "2026-02-30",
+    "amount_in_kopecks": -500,
+    "category": "shopping",
+    "description": ""
+  }
+]

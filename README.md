@@ -23,6 +23,7 @@
 | 2 | Алгоритми роботи з двовимірними масивами | ✅ Виконано | [lab02](./lab02) |
 | 3 | Двовимірні масиви та розробка консольної гри | ✅ Виконано | [lab03](./lab03) |
 | 4 | Розробка гри «Морський бій» | ✅ Виконано | [lab04](./lab04) |
+| 5 | Консольний застосунок для обліку витрат ExpenseTracker | ✅ Виконано | [lab05](./lab05) |
 | --- | Реалізація патерна «Легковаговик» (Flyweight) на прикладі системи кінотеатру | ✅ Виконано | [FlyweightCinema](./FlyweightCinema) |
 | --- | КР: Практична задача | ✅ Виконано | [Practical_Test](./Practical_Test) |
 
@@ -61,6 +62,20 @@ Ruby-homework/
 │   ├── errors.rb
 │   ├── game_constants.rb
 │   └── statistics.rb
+├── lab05/
+│   ├── README.md
+│   ├── bin/
+│   │   └── main.rb
+│   ├── lib/
+│   │   ├── expense.rb
+│   │   ├── expense_storage.rb
+│   │   ├── expense_manager.rb
+│   │   └── expense_tracker.rb
+│   └── data/
+│       ├── expenses.json
+│       ├── valid_import.json
+│       ├── invalid_import.json
+│       └── test_import.json
 ├── FlyweightCinema/
 │   ├── README.md
 │   ├── seat_type.rb
@@ -107,4 +122,4 @@ ruby назва_файлу.rb
 
 ---
 
-**Останнє оновлення:** 17.11.2026
+**Останнє оновлення:** 19.11.2026

@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-18",
+    "amount_in_kopecks": 15000,
+    "category": "other",
+    "description": "Тестовий імпорт"
+  }
+]
